@@ -2,7 +2,7 @@
 
 _**A crunchy low-carb snack that only takes minutes to prepare.  
 Salami and cheese in a delicious combination. Perfection!**_
-![Cheese Chips](https://dd-prod-maxcdn-04ylb9if97w7z.netdna-ssl.com/wp-content/uploads/2016/09/DD-191-2-1200x1800.jpg =400x600)
+![Cheese Chips](https://dd-prod-maxcdn-04ylb9if97w7z.netdna-ssl.com/wp-content/uploads/2016/09/DD-191-2-1200x1800.jpg alt="alt text" width="400" height="600")
 
 -Serves 4
 -Ketogenic low carb
