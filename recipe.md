@@ -1,12 +1,13 @@
 # Salami and Cheese Chips
 ![Cheese Chips](https://dd-prod-maxcdn-04ylb9if97w7z.netdna-ssl.com/wp-content/uploads/2016/09/DD-191-2-1200x1800.jpg)
+
 _**A crunchy low-carb snack that only takes minutes to prepare.  
 Salami and cheese in a delicious combination. Perfection!**_
 
-+Serves 4
-+Ketogenic low carb
-+Easy to make
-+10 mins
++ Serves 4
++ Ketogenic low carb
++ Easy to make
++ 10 mins
 
 | Amount | Ingredient |
 | ------ | ----------- |
