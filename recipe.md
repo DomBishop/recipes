@@ -14,6 +14,7 @@ Salami and cheese in a delicious combination. Perfection!**_
 | 3 oz.  | salami, about 20 slices |
 | 4 oz. | grated parmesan cheese |
 | 1 teaspoon | paprika powder |
+
 ---
 
 ##Instuctions:
@@ -23,6 +24,7 @@ Salami and cheese in a delicious combination. Perfection!**_
 3. Place a mound of shredded cheese on top of every slice, about 1–2 tablespoons. Sprinkle paprika powder or dry herbs on top if you want additional flavors.
 4. Place in the oven and bake until the cheese turns bubbly and golden brown. Keep an eye on them so they don’t burn.
 5. Remove from the oven and let cool. After that the chips are ready to be enjoyed!
+
 ---
 
 ##Tip!
