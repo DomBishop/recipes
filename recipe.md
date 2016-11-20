@@ -2,7 +2,7 @@
 
 _**A crunchy low-carb snack that only takes minutes to prepare.  
 Salami and cheese in a delicious combination. Perfection!**_
-![Cheese Chips](https://dd-prod-maxcdn-04ylb9if97w7z.netdna-ssl.com/wp-content/uploads/2016/09/DD-191-2-1200x1800.jpg alt="alt text" width="400" height="600")
+![Cheese Chips](https://dd-prod-maxcdn-04ylb9if97w7z.netdna-ssl.com/wp-content/uploads/2016/09/DD-191-2-1200x1800.jpg)
 
 -Serves 4
 -Ketogenic low carb
@@ -14,6 +14,7 @@ Salami and cheese in a delicious combination. Perfection!**_
 | 3 oz.  | salami, about 20 slices |
 | 4 oz. | grated parmesan cheese |
 | 1 teaspoon | paprika powder |
+---
 
 ##Instuctions:
 
@@ -22,6 +23,7 @@ Salami and cheese in a delicious combination. Perfection!**_
 3. Place a mound of shredded cheese on top of every slice, about 1–2 tablespoons. Sprinkle paprika powder or dry herbs on top if you want additional flavors.
 4. Place in the oven and bake until the cheese turns bubbly and golden brown. Keep an eye on them so they don’t burn.
 5. Remove from the oven and let cool. After that the chips are ready to be enjoyed!
+---
 
 ##Tip!
 
